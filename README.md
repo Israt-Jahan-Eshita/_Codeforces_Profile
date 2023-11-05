@@ -1,2 +1,2 @@
-# _Codeforces_Solution_
+# _Codeforces_
 Codeforces Profile: https://codeforces.com/profile/isratjahan0244
